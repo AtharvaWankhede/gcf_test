@@ -3,3 +3,4 @@
 ## Also going to integrate it with Slack 
 ### We have to search for slack app create and then select channel in it where we want to post message 
 no
+##now sending txt on slack
